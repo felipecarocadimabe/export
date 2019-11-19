@@ -1,0 +1,4 @@
+[submodule "leonardodimabe/invernada-order-export"]
+	path = leonardodimabe/invernada-order-export
+	url = git@github.com:leonardodimabe/invernada-order-export.git
+	branch = order_export_qa
