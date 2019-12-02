@@ -7,3 +7,8 @@
 	path = felipecarocadimabe/openfactura
 	url = git@github.com:felipecarocadimabe/invernada-test.git
 	branch = openfactura-integration
+
+[submodule "felipecarocadimabe/account-payment-editable"]
+	path = felipecarocadimabe/account-payment-editable
+	url = git@github.com:felipecarocadimabe/invernada-test.git
+	branch = account-payment-editable
