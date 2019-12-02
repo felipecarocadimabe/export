@@ -2,3 +2,8 @@
 	path = felipecarocadimabe/invernada-test
 	url = git@github.com:felipecarocadimabe/invernada-test.git
 	branch = master
+
+[submodule "felipecarocadimabe/openfactura"]
+	path = felipecarocadimabe/openfactura
+	url = git@github.com:felipecarocadimabe/invernada-test.git
+	branch = openfactura-integration
